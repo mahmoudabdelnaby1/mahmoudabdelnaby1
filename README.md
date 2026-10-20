@@ -25,7 +25,6 @@ I connect paid media, content, analytics, and technology to build measurable gro
 - Delivered **1.2M+ Google Ads impressions**, a **97.2% optimization score**, **3.7M+ TikTok views**, and **12K+ conversions at 0.48 SAR CPL**.
 - Led content strategies for **30+ clients**, driving **15–20% engagement growth**.
 
-*Figures summarize experience details provided by me; measurement definitions and scope vary by engagement.*
 
 ### Markets
 Saudi Arabia · Jordan · Qatar · Egypt · Kuwait · UAE · Singapore · Malaysia · Brunei · United States · United Kingdom
@@ -58,7 +57,6 @@ Professional certifications from Google, Meta, IBM, Adobe, Hootsuite, the Americ
 - تحقيق أكثر من **1.2 مليون ظهور على Google Ads**، ودرجة تحسين **97.2%**، وأكثر من **3.7 مليون مشاهدة على TikTok**، و**12 ألف تحويل** بتكلفة **0.48 ريال سعودي لكل عميل محتمل**.
 - قيادة استراتيجيات محتوى لأكثر من **30 عميلًا** مع نمو التفاعل بنسبة **15–20%**.
 
-*الأرقام تلخص معلومات الخبرة التي قدمتها؛ وقد يختلف تعريف القياس ونطاقه حسب المشروع.*
 
 ### الأسواق
 السعودية · الأردن · قطر · مصر · الكويت · الإمارات · سنغافورة · ماليزيا · بروناي · الولايات المتحدة · المملكة المتحدة
