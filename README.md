@@ -34,6 +34,7 @@ Professional certifications from Google, Meta, IBM, Adobe, Hootsuite, the Americ
 
 ### Explore
 - [Explore the portfolio and assistant library](https://mahmoudabdelnaby1.github.io)
+- [Browse practical marketing systems and growth toolkits](https://github.com/mahmoudabdelnaby1/marketing-systems-playbooks)
 
 ---
 
@@ -65,6 +66,7 @@ Professional certifications from Google, Meta, IBM, Adobe, Hootsuite, the Americ
 
 ### استكشف
 - [استكشف المعرض ومكتبة المساعدين](https://mahmoudabdelnaby1.github.io)
+- [تصفح أدوات وأنظمة التسويق والنمو](https://github.com/mahmoudabdelnaby1/marketing-systems-playbooks)
 
 ---
 
