@@ -1,6 +1,6 @@
 # Mahmoud Abdelnaby
 
-**Technical Marketing Manager | Lead Generation & Growth Strategy | Content Direction & Generative AI | Paid Media & E-commerce**
+**Technical Marketing Manager | Growth Strategy, Paid Media, Content, SEO, Analytics, Web & E-commerce, Generative AI**
 
 🌐 [Portfolio & Assistant Library](https://mahmoudabdelnaby1.github.io) · [LinkedIn](https://eg.linkedin.com/in/mahmoudabdelnaby4)
 
@@ -33,8 +33,7 @@ Saudi Arabia · Jordan · Qatar · Egypt · Kuwait · UAE · Singapore · Malays
 Professional certifications from Google, Meta, IBM, Adobe, Hootsuite, the American Marketing Association, and the Content Marketing Institute.
 
 ### Explore
-- [Portfolio and bilingual assistant library](https://mahmoudabdelnaby1.github.io)
-- [Browse the 140-assistant collection](https://mahmoudabdelnaby1.github.io/#assistant-library)
+- [Explore the portfolio and assistant library](https://mahmoudabdelnaby1.github.io)
 
 ---
 
@@ -65,8 +64,7 @@ Professional certifications from Google, Meta, IBM, Adobe, Hootsuite, the Americ
 شهادات مهنية من Google وMeta وIBM وAdobe وHootsuite والجمعية الأمريكية للتسويق ومعهد تسويق المحتوى.
 
 ### استكشف
-- [المعرض ومكتبة المساعدين باللغتين](https://mahmoudabdelnaby1.github.io)
-- [تصفح مكتبة المساعدين الـ140](https://mahmoudabdelnaby1.github.io/#assistant-library)
+- [استكشف المعرض ومكتبة المساعدين](https://mahmoudabdelnaby1.github.io)
 
 ---
 
