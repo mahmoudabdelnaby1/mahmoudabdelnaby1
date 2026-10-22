@@ -35,6 +35,8 @@ Professional certifications from Google, Meta, IBM, Adobe, Hootsuite, the Americ
 ### Explore
 - [Browse the assistant library](https://mahmoudabdelnaby1.github.io/#assistant-library) · [View assistant page source on GitHub](https://github.com/mahmoudabdelnaby1/mahmoudabdelnaby1.github.io/tree/main/assistants)
 - [Read the English playbooks guide](https://mahmoudabdelnaby1.github.io/playbooks/) · [اقرأ دليل الأدلة بالعربية](https://mahmoudabdelnaby1.github.io/ar/playbooks/)
+- [Arabic copy localization](https://mahmoudabdelnaby1.github.io/playbooks/arabic-market-copy-localizer/) · [E-commerce unit economics](https://mahmoudabdelnaby1.github.io/playbooks/ecommerce-unit-economics/) · [Commerce tracking & QA](https://mahmoudabdelnaby1.github.io/playbooks/commerce-measurement-planning/)
+- [Snapchat campaign planning](https://mahmoudabdelnaby1.github.io/playbooks/snapchat-campaign-planning/) · [WhatsApp commerce conversations](https://mahmoudabdelnaby1.github.io/playbooks/whatsapp-order-follow-up/) · [MENA ad pre-flight review](https://mahmoudabdelnaby1.github.io/playbooks/mena-ad-compliance-precheck/)
 - [Open the playbook source files](https://github.com/mahmoudabdelnaby1/marketing-systems-playbooks)
 
 ---
