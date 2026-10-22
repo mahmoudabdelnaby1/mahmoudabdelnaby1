@@ -2,7 +2,7 @@
 
 **Technical Marketing Manager | Growth Strategy, Marketing Leadership, Content & Creative, Digital Experience, Analytics and AI**
 
-🌐 [Portfolio](https://mahmoudabdelnaby1.github.io) · [Playbooks guide](https://mahmoudabdelnaby1.github.io/playbooks/) · [Browse the assistant library](https://mahmoudabdelnaby1.github.io/#assistant-library) · [Assistant page source](https://github.com/mahmoudabdelnaby1/mahmoudabdelnaby1.github.io/tree/main/assistants) · [LinkedIn](https://eg.linkedin.com/in/mahmoudabdelnaby4)
+🌐 [Portfolio](https://mahmoudabdelnaby1.github.io) · [Playbooks guide](https://mahmoudabdelnaby1.github.io/playbooks/) · [Browse the assistant library](https://mahmoudabdelnaby1.github.io/#assistant-library) · [Assistant prompt library](https://github.com/mahmoudabdelnaby1/assistant-prompt-library) · [LinkedIn](https://eg.linkedin.com/in/mahmoudabdelnaby4)
 
 ---
 
@@ -33,7 +33,7 @@ Saudi Arabia · Jordan · Qatar · Egypt · Kuwait · UAE · Singapore · Malays
 Professional certifications from Google, Meta, IBM, Adobe, Hootsuite, the American Marketing Association, and the Content Marketing Institute.
 
 ### Explore
-- [Browse the assistant library](https://mahmoudabdelnaby1.github.io/#assistant-library) · [View assistant page source on GitHub](https://github.com/mahmoudabdelnaby1/mahmoudabdelnaby1.github.io/tree/main/assistants)
+- [Browse the assistant library](https://mahmoudabdelnaby1.github.io/#assistant-library) · [Explore the prompt library on GitHub](https://github.com/mahmoudabdelnaby1/assistant-prompt-library)
 - [Read the English playbooks guide](https://mahmoudabdelnaby1.github.io/playbooks/) · [اقرأ دليل الأدلة بالعربية](https://mahmoudabdelnaby1.github.io/ar/playbooks/)
 - [Arabic copy localization](https://mahmoudabdelnaby1.github.io/playbooks/arabic-market-copy-localizer/) · [E-commerce unit economics](https://mahmoudabdelnaby1.github.io/playbooks/ecommerce-unit-economics/) · [Commerce tracking & QA](https://mahmoudabdelnaby1.github.io/playbooks/commerce-measurement-planning/)
 - [Snapchat campaign planning](https://mahmoudabdelnaby1.github.io/playbooks/snapchat-campaign-planning/) · [WhatsApp commerce conversations](https://mahmoudabdelnaby1.github.io/playbooks/whatsapp-order-follow-up/) · [MENA ad pre-flight review](https://mahmoudabdelnaby1.github.io/playbooks/mena-ad-compliance-precheck/)
