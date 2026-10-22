@@ -68,8 +68,10 @@ Professional certifications from Google, Meta, IBM, Adobe, Hootsuite, the Americ
 شهادات مهنية من Google وMeta وIBM وAdobe وHootsuite والجمعية الأمريكية للتسويق ومعهد تسويق المحتوى.
 
 ### استكشف
-- [تصفح مكتبة المساعدين](https://mahmoudabdelnaby1.github.io/#assistant-library) · [استعرض ملفات صفحات المساعدين على GitHub](https://github.com/mahmoudabdelnaby1/mahmoudabdelnaby1.github.io/tree/main/assistants)
-- [تصفح أدوات وأنظمة التسويق والنمو](https://github.com/mahmoudabdelnaby1/marketing-systems-playbooks)
+- [اقرأ دليل الأدلة العملية](https://mahmoudabdelnaby1.github.io/ar/playbooks/) · [Read the English playbooks guide](https://mahmoudabdelnaby1.github.io/playbooks/)
+- [توطين النصوص العربية](https://mahmoudabdelnaby1.github.io/ar/playbooks/arabic-market-copy-localizer/) · [اقتصاديات التجارة الإلكترونية](https://mahmoudabdelnaby1.github.io/ar/playbooks/ecommerce-unit-economics/) · [قياس أحداث التجارة ومراجعتها](https://mahmoudabdelnaby1.github.io/ar/playbooks/commerce-measurement-planning/)
+- [تخطيط حملات سناب شات](https://mahmoudabdelnaby1.github.io/ar/playbooks/snapchat-campaign-planning/) · [محادثات التجارة عبر واتساب](https://mahmoudabdelnaby1.github.io/ar/playbooks/whatsapp-order-follow-up/) · [مراجعة الإعلان قبل إطلاقه](https://mahmoudabdelnaby1.github.io/ar/playbooks/mena-ad-compliance-precheck/)
+- [افتح ملفات الأدلة على GitHub](https://github.com/mahmoudabdelnaby1/marketing-systems-playbooks)
 
 ---
 
