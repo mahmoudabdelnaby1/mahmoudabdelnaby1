@@ -2,7 +2,7 @@
 
 **Technical Marketing Manager | Growth Strategy, Marketing Leadership, Content & Creative, Digital Experience, Analytics and AI**
 
-🌐 [Portfolio](https://mahmoudabdelnaby1.github.io) · [Browse the assistant library](https://mahmoudabdelnaby1.github.io/#assistant-library) · [Assistant page source](https://github.com/mahmoudabdelnaby1/mahmoudabdelnaby1.github.io/tree/main/assistants) · [LinkedIn](https://eg.linkedin.com/in/mahmoudabdelnaby4)
+🌐 [Portfolio](https://mahmoudabdelnaby1.github.io) · [Playbooks guide](https://mahmoudabdelnaby1.github.io/playbooks/) · [Browse the assistant library](https://mahmoudabdelnaby1.github.io/#assistant-library) · [Assistant page source](https://github.com/mahmoudabdelnaby1/mahmoudabdelnaby1.github.io/tree/main/assistants) · [LinkedIn](https://eg.linkedin.com/in/mahmoudabdelnaby4)
 
 ---
 
@@ -34,7 +34,8 @@ Professional certifications from Google, Meta, IBM, Adobe, Hootsuite, the Americ
 
 ### Explore
 - [Browse the assistant library](https://mahmoudabdelnaby1.github.io/#assistant-library) · [View assistant page source on GitHub](https://github.com/mahmoudabdelnaby1/mahmoudabdelnaby1.github.io/tree/main/assistants)
-- [Browse practical marketing systems and growth toolkits](https://github.com/mahmoudabdelnaby1/marketing-systems-playbooks)
+- [Read the English playbooks guide](https://mahmoudabdelnaby1.github.io/playbooks/) · [اقرأ دليل الأدلة بالعربية](https://mahmoudabdelnaby1.github.io/ar/playbooks/)
+- [Open the playbook source files](https://github.com/mahmoudabdelnaby1/marketing-systems-playbooks)
 
 ---
 
