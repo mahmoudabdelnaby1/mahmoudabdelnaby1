@@ -37,6 +37,7 @@ Professional certifications from Google, Meta, IBM, Adobe, Hootsuite, the Americ
 - [Read the English playbooks guide](https://mahmoudabdelnaby1.github.io/playbooks/) · [اقرأ دليل الأدلة بالعربية](https://mahmoudabdelnaby1.github.io/ar/playbooks/)
 - [Arabic copy localization](https://mahmoudabdelnaby1.github.io/playbooks/arabic-market-copy-localizer/) · [E-commerce unit economics](https://mahmoudabdelnaby1.github.io/playbooks/ecommerce-unit-economics/) · [Commerce tracking & QA](https://mahmoudabdelnaby1.github.io/playbooks/commerce-measurement-planning/)
 - [Snapchat campaign planning](https://mahmoudabdelnaby1.github.io/playbooks/snapchat-campaign-planning/) · [WhatsApp commerce conversations](https://mahmoudabdelnaby1.github.io/playbooks/whatsapp-order-follow-up/) · [MENA ad pre-flight review](https://mahmoudabdelnaby1.github.io/playbooks/mena-ad-compliance-precheck/)
+- [Marketing incrementality test design](https://mahmoudabdelnaby1.github.io/playbooks/mena-incrementality-test-designer/) · [Revenue and ROAS reconciliation](https://mahmoudabdelnaby1.github.io/playbooks/revenue-roas-reconciliation/) · [Permission-based email deliverability review](https://mahmoudabdelnaby1.github.io/playbooks/permission-email-deliverability-review/)
 - [Open the playbook source files](https://github.com/mahmoudabdelnaby1/marketing-systems-playbooks)
 
 ---
@@ -71,6 +72,7 @@ Professional certifications from Google, Meta, IBM, Adobe, Hootsuite, the Americ
 - [اقرأ دليل الأدلة العملية](https://mahmoudabdelnaby1.github.io/ar/playbooks/) · [Read the English playbooks guide](https://mahmoudabdelnaby1.github.io/playbooks/)
 - [توطين النصوص العربية](https://mahmoudabdelnaby1.github.io/ar/playbooks/arabic-market-copy-localizer/) · [اقتصاديات التجارة الإلكترونية](https://mahmoudabdelnaby1.github.io/ar/playbooks/ecommerce-unit-economics/) · [قياس أحداث التجارة ومراجعتها](https://mahmoudabdelnaby1.github.io/ar/playbooks/commerce-measurement-planning/)
 - [تخطيط حملات سناب شات](https://mahmoudabdelnaby1.github.io/ar/playbooks/snapchat-campaign-planning/) · [محادثات التجارة عبر واتساب](https://mahmoudabdelnaby1.github.io/ar/playbooks/whatsapp-order-follow-up/) · [مراجعة الإعلان قبل إطلاقه](https://mahmoudabdelnaby1.github.io/ar/playbooks/mena-ad-compliance-precheck/)
+- [تصميم اختبارات الزيادة الفعلية](https://mahmoudabdelnaby1.github.io/ar/playbooks/mena-incrementality-test-designer/) · [مراجعة الإيرادات والإسناد](https://mahmoudabdelnaby1.github.io/ar/playbooks/revenue-roas-reconciliation/) · [مراجعة تسليم البريد بموافقة المستلمين](https://mahmoudabdelnaby1.github.io/ar/playbooks/permission-email-deliverability-review/)
 - [افتح ملفات الأدلة على GitHub](https://github.com/mahmoudabdelnaby1/marketing-systems-playbooks)
 
 ---
