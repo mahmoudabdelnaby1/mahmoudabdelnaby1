@@ -2,7 +2,7 @@
 
 **Technical Marketing Manager | Growth Strategy, Marketing Leadership, Content & Creative, Digital Experience, Analytics and AI**
 
-🌐 [Portfolio](https://mahmoudabdelnaby1.github.io) · [Digital marketing skills](https://mahmoudabdelnaby1.github.io/#skills-library) · [Skills repository](https://github.com/mahmoudabdelnaby1/digital-marketing-skills) · [Playbooks guide](https://mahmoudabdelnaby1.github.io/playbooks/) · [Browse the assistant library](https://mahmoudabdelnaby1.github.io/#assistant-library) · [Assistant prompt library](https://github.com/mahmoudabdelnaby1/assistant-prompt-library) · [LinkedIn](https://eg.linkedin.com/in/mahmoudabdelnaby4)
+🌐 [Portfolio](https://mahmoudabdelnaby1.github.io) · [Digital marketing skills](https://mahmoudabdelnaby1.github.io/#skills-library) · [Skills repository](https://github.com/mahmoudabdelnaby1/digital-marketing-skills) · [Playbooks guide](https://mahmoudabdelnaby1.github.io/playbooks/) · [AI marketing frameworks](https://mahmoudabdelnaby1.github.io/frameworks/) · [Framework source library](https://github.com/mahmoudabdelnaby1/mena-ai-marketing-frameworks) · [Browse the assistant library](https://mahmoudabdelnaby1.github.io/#assistant-library) · [Assistant prompt library](https://github.com/mahmoudabdelnaby1/assistant-prompt-library) · [LinkedIn](https://eg.linkedin.com/in/mahmoudabdelnaby4)
 
 ---
 
@@ -35,6 +35,7 @@ Professional certifications from Google, Meta, IBM, Adobe, Hootsuite, the Americ
 ### Explore
 - [Browse the digital marketing skills catalog](https://mahmoudabdelnaby1.github.io/#skills-library) · [Explore all skill source files](https://github.com/mahmoudabdelnaby1/digital-marketing-skills)
 - [Browse the assistant library](https://mahmoudabdelnaby1.github.io/#assistant-library) · [Explore the prompt library on GitHub](https://github.com/mahmoudabdelnaby1/assistant-prompt-library)
+- [Explore the AI marketing frameworks](https://mahmoudabdelnaby1.github.io/frameworks/) · [Open the bilingual framework source files](https://github.com/mahmoudabdelnaby1/mena-ai-marketing-frameworks)
 - [Read the English playbooks guide](https://mahmoudabdelnaby1.github.io/playbooks/) · [اقرأ دليل الأدلة بالعربية](https://mahmoudabdelnaby1.github.io/ar/playbooks/)
 - [Arabic copy localization](https://mahmoudabdelnaby1.github.io/playbooks/arabic-market-copy-localizer/) · [E-commerce unit economics](https://mahmoudabdelnaby1.github.io/playbooks/ecommerce-unit-economics/) · [Commerce tracking & QA](https://mahmoudabdelnaby1.github.io/playbooks/commerce-measurement-planning/)
 - [Snapchat campaign planning](https://mahmoudabdelnaby1.github.io/playbooks/snapchat-campaign-planning/) · [WhatsApp commerce conversations](https://mahmoudabdelnaby1.github.io/playbooks/whatsapp-order-follow-up/) · [MENA ad pre-flight review](https://mahmoudabdelnaby1.github.io/playbooks/mena-ad-compliance-precheck/)
@@ -71,6 +72,7 @@ Professional certifications from Google, Meta, IBM, Adobe, Hootsuite, the Americ
 شهادات مهنية من Google وMeta وIBM وAdobe وHootsuite والجمعية الأمريكية للتسويق ومعهد تسويق المحتوى.
 
 ### استكشف
+- [استكشف أطر الذكاء الاصطناعي التسويقي](https://mahmoudabdelnaby1.github.io/ar/frameworks/) · [افتح ملفات الأطر الثنائية اللغة على GitHub](https://github.com/mahmoudabdelnaby1/mena-ai-marketing-frameworks)
 - [تصفّح مكتبة مهارات التسويق الرقمي](https://mahmoudabdelnaby1.github.io/ar/#skills-library) · [افتح ملفات المهارات على GitHub](https://github.com/mahmoudabdelnaby1/digital-marketing-skills)
 - [اقرأ دليل الأدلة العملية](https://mahmoudabdelnaby1.github.io/ar/playbooks/) · [Read the English playbooks guide](https://mahmoudabdelnaby1.github.io/playbooks/)
 - [توطين النصوص العربية](https://mahmoudabdelnaby1.github.io/ar/playbooks/arabic-market-copy-localizer/) · [اقتصاديات التجارة الإلكترونية](https://mahmoudabdelnaby1.github.io/ar/playbooks/ecommerce-unit-economics/) · [قياس أحداث التجارة ومراجعتها](https://mahmoudabdelnaby1.github.io/ar/playbooks/commerce-measurement-planning/)
