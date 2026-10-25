@@ -2,7 +2,7 @@
 
 **Technical Marketing Manager | Growth Strategy, Marketing Leadership, Content & Creative, Digital Experience, Analytics and AI**
 
-🌐 [Portfolio](https://mahmoudabdelnaby1.github.io) · [Playbooks guide](https://mahmoudabdelnaby1.github.io/playbooks/) · [Browse the assistant library](https://mahmoudabdelnaby1.github.io/#assistant-library) · [Assistant prompt library](https://github.com/mahmoudabdelnaby1/assistant-prompt-library) · [LinkedIn](https://eg.linkedin.com/in/mahmoudabdelnaby4)
+🌐 [Portfolio](https://mahmoudabdelnaby1.github.io) · [Digital marketing skills](https://mahmoudabdelnaby1.github.io/#skills-library) · [Skills repository](https://github.com/mahmoudabdelnaby1/digital-marketing-skills) · [Playbooks guide](https://mahmoudabdelnaby1.github.io/playbooks/) · [Browse the assistant library](https://mahmoudabdelnaby1.github.io/#assistant-library) · [Assistant prompt library](https://github.com/mahmoudabdelnaby1/assistant-prompt-library) · [LinkedIn](https://eg.linkedin.com/in/mahmoudabdelnaby4)
 
 ---
 
@@ -33,6 +33,7 @@ Saudi Arabia · Jordan · Qatar · Egypt · Kuwait · UAE · Singapore · Malays
 Professional certifications from Google, Meta, IBM, Adobe, Hootsuite, the American Marketing Association, and the Content Marketing Institute.
 
 ### Explore
+- [Browse the digital marketing skills catalog](https://mahmoudabdelnaby1.github.io/#skills-library) · [Explore all skill source files](https://github.com/mahmoudabdelnaby1/digital-marketing-skills)
 - [Browse the assistant library](https://mahmoudabdelnaby1.github.io/#assistant-library) · [Explore the prompt library on GitHub](https://github.com/mahmoudabdelnaby1/assistant-prompt-library)
 - [Read the English playbooks guide](https://mahmoudabdelnaby1.github.io/playbooks/) · [اقرأ دليل الأدلة بالعربية](https://mahmoudabdelnaby1.github.io/ar/playbooks/)
 - [Arabic copy localization](https://mahmoudabdelnaby1.github.io/playbooks/arabic-market-copy-localizer/) · [E-commerce unit economics](https://mahmoudabdelnaby1.github.io/playbooks/ecommerce-unit-economics/) · [Commerce tracking & QA](https://mahmoudabdelnaby1.github.io/playbooks/commerce-measurement-planning/)
@@ -70,6 +71,7 @@ Professional certifications from Google, Meta, IBM, Adobe, Hootsuite, the Americ
 شهادات مهنية من Google وMeta وIBM وAdobe وHootsuite والجمعية الأمريكية للتسويق ومعهد تسويق المحتوى.
 
 ### استكشف
+- [تصفّح مكتبة مهارات التسويق الرقمي](https://mahmoudabdelnaby1.github.io/ar/#skills-library) · [افتح ملفات المهارات على GitHub](https://github.com/mahmoudabdelnaby1/digital-marketing-skills)
 - [اقرأ دليل الأدلة العملية](https://mahmoudabdelnaby1.github.io/ar/playbooks/) · [Read the English playbooks guide](https://mahmoudabdelnaby1.github.io/playbooks/)
 - [توطين النصوص العربية](https://mahmoudabdelnaby1.github.io/ar/playbooks/arabic-market-copy-localizer/) · [اقتصاديات التجارة الإلكترونية](https://mahmoudabdelnaby1.github.io/ar/playbooks/ecommerce-unit-economics/) · [قياس أحداث التجارة ومراجعتها](https://mahmoudabdelnaby1.github.io/ar/playbooks/commerce-measurement-planning/)
 - [تخطيط حملات سناب شات](https://mahmoudabdelnaby1.github.io/ar/playbooks/snapchat-campaign-planning/) · [محادثات التجارة عبر واتساب](https://mahmoudabdelnaby1.github.io/ar/playbooks/whatsapp-order-follow-up/) · [مراجعة الإعلان قبل إطلاقه](https://mahmoudabdelnaby1.github.io/ar/playbooks/mena-ad-compliance-precheck/)
