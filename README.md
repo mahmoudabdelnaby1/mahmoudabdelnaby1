@@ -88,3 +88,9 @@ Professional certifications from Google, Meta, IBM, Adobe, Hootsuite, the Americ
 ---
 
 The assistant library contains reusable prompt text. It does not host or run AI models.
+
+## Contact | تواصل
+
+For project inquiries, marketing and growth collaborations, or professional opportunities, visit [my portfolio](https://mahmoudabdelnaby1.github.io/).
+
+للاستفسارات عن المشاريع أو التعاون في التسويق والنمو أو الفرص المهنية، تفضل بزيارة [موقعي المهني](https://mahmoudabdelnaby1.github.io/).
