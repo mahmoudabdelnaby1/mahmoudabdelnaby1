@@ -35,7 +35,9 @@ Professional certifications from Google, Meta, IBM, Adobe, Hootsuite, the Americ
 ### Explore
 - [Browse the Marketing Tools library](https://mahmoudabdelnaby1.github.io/apps/) · [Open its source files on GitHub](https://github.com/mahmoudabdelnaby1/mahmoudabdelnaby1.github.io/tree/main/apps)
 - [Browse the digital marketing skills catalog](https://mahmoudabdelnaby1.github.io/skills/) · [Explore all skill source files](https://github.com/mahmoudabdelnaby1/digital-marketing-skills)
+- [Browse the repository project guides](https://mahmoudabdelnaby1.github.io/repositories/) · [View my public GitHub repositories](https://github.com/mahmoudabdelnaby1?tab=repositories)
 - [Explore Marketing Systems](https://mahmoudabdelnaby1.github.io/marketing-systems/) · [Browse the source files on GitHub](https://github.com/mahmoudabdelnaby1/mahmoudabdelnaby1.github.io/tree/main/marketing-systems)
+- [Read the marketing blog](https://mahmoudabdelnaby1.github.io/blog/) · [Browse resources by problem](https://mahmoudabdelnaby1.github.io/resources/)
 - [Browse the assistant library](https://mahmoudabdelnaby1.github.io/#assistant-library) · [Explore the prompt library on GitHub](https://github.com/mahmoudabdelnaby1/assistant-prompt-library)
 - [Explore the AI marketing frameworks](https://mahmoudabdelnaby1.github.io/frameworks/) · [Open the bilingual framework source files](https://github.com/mahmoudabdelnaby1/mena-ai-marketing-frameworks)
 - [Browse the practical frameworks Wiki](https://github.com/mahmoudabdelnaby1/mena-ai-marketing-frameworks/wiki) — bilingual starting guides, worked examples, and source references for the marketing frameworks.
@@ -79,7 +81,9 @@ Professional certifications from Google, Meta, IBM, Adobe, Hootsuite, the Americ
 - [استكشف أطر الذكاء الاصطناعي التسويقي](https://mahmoudabdelnaby1.github.io/ar/frameworks/) · [افتح ملفات الأطر الثنائية اللغة على GitHub](https://github.com/mahmoudabdelnaby1/mena-ai-marketing-frameworks)
 - [تصفّح دليل الأطر العملية (Wiki)](https://github.com/mahmoudabdelnaby1/mena-ai-marketing-frameworks/wiki) — دليل عربي وإنجليزي للبدء، وأمثلة تطبيقية، ومراجع الأطر التسويقية.
 - [تصفّح مكتبة مهارات التسويق الرقمي](https://mahmoudabdelnaby1.github.io/ar/skills/) · [افتح ملفات المهارات على GitHub](https://github.com/mahmoudabdelnaby1/digital-marketing-skills)
+- [تصفّح أدلة مستودعات GitHub](https://mahmoudabdelnaby1.github.io/ar/repositories/) · [استعرض مستودعاتي العامة على GitHub](https://github.com/mahmoudabdelnaby1?tab=repositories)
 - [استكشف أنظمة التسويق](https://mahmoudabdelnaby1.github.io/marketing-systems/) · [تصفح ملفات المصدر على GitHub](https://github.com/mahmoudabdelnaby1/mahmoudabdelnaby1.github.io/tree/main/marketing-systems)
+- [اقرأ المدونة التسويقية](https://mahmoudabdelnaby1.github.io/ar/blog/) · [تصفّح دليل الموارد حسب المشكلة](https://mahmoudabdelnaby1.github.io/ar/resources/)
 - [اقرأ دليل الأدلة العملية](https://mahmoudabdelnaby1.github.io/ar/playbooks/) · [Read the English playbooks guide](https://mahmoudabdelnaby1.github.io/playbooks/)
 - [توطين النصوص العربية](https://mahmoudabdelnaby1.github.io/ar/playbooks/arabic-market-copy-localizer/) · [اقتصاديات التجارة الإلكترونية](https://mahmoudabdelnaby1.github.io/ar/playbooks/ecommerce-unit-economics/) · [قياس أحداث التجارة ومراجعتها](https://mahmoudabdelnaby1.github.io/ar/playbooks/commerce-measurement-planning/)
 - [تخطيط حملات سناب شات](https://mahmoudabdelnaby1.github.io/ar/playbooks/snapchat-campaign-planning/) · [محادثات التجارة عبر واتساب](https://mahmoudabdelnaby1.github.io/ar/playbooks/whatsapp-order-follow-up/) · [مراجعة الإعلان قبل إطلاقه](https://mahmoudabdelnaby1.github.io/ar/playbooks/mena-ad-compliance-precheck/)
