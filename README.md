@@ -2,7 +2,7 @@
 
 **Technical Marketing Manager | Growth Strategy, Marketing Leadership, Content & Creative, Digital Experience, Analytics and AI**
 
-🌐 [Portfolio](https://mahmoudabdelnaby1.github.io/) · [Marketing tools](https://mahmoudabdelnaby1.github.io/apps/) · [Digital marketing skills](https://mahmoudabdelnaby1.github.io/skills/) · [Skills repository](https://github.com/mahmoudabdelnaby1/digital-marketing-skills) · [Playbooks guide](https://mahmoudabdelnaby1.github.io/playbooks/) · [AI marketing frameworks](https://mahmoudabdelnaby1.github.io/frameworks/) · [Framework source library](https://github.com/mahmoudabdelnaby1/mena-ai-marketing-frameworks) · [Marketing Systems](https://mahmoudabdelnaby1.github.io/marketing-systems/) · [Browse the assistant library](https://mahmoudabdelnaby1.github.io/#assistant-library) · [Assistant prompt library](https://github.com/mahmoudabdelnaby1/assistant-prompt-library) · [LinkedIn](https://eg.linkedin.com/in/mahmoudabdelnaby4)
+🌐 [Portfolio](https://mahmoudabdelnaby1.github.io/) · [LinkedIn](https://eg.linkedin.com/in/mahmoudabdelnaby4)
 
 ---
 
